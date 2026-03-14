@@ -4,7 +4,7 @@
 
 This project is a **desktop-based Fetal Health Classification Application** developed using **Python Tkinter** for the graphical user interface and **Machine Learning** for prediction. The application is designed to classify fetal health status into three categories: **Normal, Suspect, and Pathological** based on **Cardiotocography (CTG) data**.
 
-## Project Purpose
+## Project Purpose (Motto)
 
 The main goal of this application is to help analyze fetal health readings using important CTG parameters and provide an easy-to-use interface for prediction, data exploration, and model evaluation. It demonstrates how statistical analysis, visualization, and machine learning can be combined into one interactive application.
 
